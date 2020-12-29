@@ -5,14 +5,10 @@
 /
 Abhishek-Dabas is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-A data scientist in making 
+I am inspired by what humans can achieve with the power of Artificial Intelligence. A data scientist in making. 
 
-My  goal is to make the world a better place than I found it to be.
-
-
-- :microscope: I am currently working on Model Interpretability and Explainable AI
-- :two_men_holding_hands: I am open to collaborate on Deep Learning related projects.
-- :grin: Pronouns: He/His/Him
+- :microscope: I am currently working on Causal Inference and Reinforcement Learning
+- :grin: Pronouns: He/Him/His
 </br>
 
 
