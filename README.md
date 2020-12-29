@@ -5,9 +5,12 @@
 /
 Abhishek-Dabas is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am inspired by what humans can achieve with the power of Artificial Intelligence. A data scientist in making. 
+I am inspired by what humans can achieve with the power of Artificial Intelligence. \
+A data scientist in making. 
 
 - :microscope: I am currently working on Causal Inference and Reinforcement Learning
+- :microscope: I like writing medium Blogs, check it out here : https://adabhishekdabas.medium.com/
+- :microscope: Working on drafting an ebook on "A Guide to Causal Inference", check it out here :https://adabhishekdabas.gitbook.io/causal-inference/why-bother-with-causality 
 - :grin: Pronouns: He/Him/His
 </br>
 
